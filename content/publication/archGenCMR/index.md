@@ -26,14 +26,14 @@ publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
 publication: In *California Management Review*
-publication_short: In *CMR*
+publication_short: 
 
 abstract: In the context of platforms, an open architecture is instrumental in enabling innovation by complementors. But as complementors increasingly deplete the innovation opportunities that the platform architecture affords, the platform architecture must evolve to reinvigorate the platform’s generative capacity. This article underscores the role of complementors in the process of platform architecture evolution by introducing the notion of architectural generativity. Architectural generativity involves actively soliciting and selectively incorporating contributions from complementors to help evolve the platform in unforeseen ways. In the case of the Mozilla Firefox web browser platform, complementors contributed new ways to facilitate access to the platform’s technological components and suggested better ways to control the platform and its architecture.
 
 # Summary. An optional shortened abstract.
 summary: An open architecture is instrumental in enabling innovation by complementors. But the platform architecture must evolve to reinvigorate the platform’s generative capacity, when the innovation opportunities are depleted. This article underscores the role of complementors in the process of platform architecture evolution by introducing the notion of architectural generativity.
 
-tags: [IS]
+tags: []
 
 # Display this page in the Featured widget?
 featured: true
@@ -74,13 +74,3 @@ image:
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).

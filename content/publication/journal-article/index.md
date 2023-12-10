@@ -1,12 +1,15 @@
 ---
-title: "An example journal article"
+title: "The Dual Face of Platform Interfaces: Between Recombination and Architectural Constraints"
 authors:
-- admin
-- Robert Ford
+  - admin
+  - Joey van Angeren
+  - Hans Berends
+  - Bart van den Hooff 
+
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+  - "Corresponding Author"
+
+date: "2023-02-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,23 +21,23 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Working Paper (R&R)*"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: To enable third-party developers to produce apps on top of digital platforms, those platforms provide well-documented and standardized interfaces that grant developers access to specific platform components. Developers choose whether to leverage such platform interfaces, and we investigate the implications of this choice for their ability to produce follow-on app innovations. We argue that although using platform interfaces is to app innovation can because interfaces can be mixed-and-matched or recombined by developers, choosing to do so also immediately imposes architectural constraints that could hamper app innovation. Platform interfaces come with design rules that developers must adhere to, possibly hindering subsequent innovation. We theorize that these enabling and constraining mechanisms jointly produce a U-shaped relationship between platform interface usage and app innovation, where moderate levels of interface usage result in the lowest levels of app innovation because at this point significant architectural constraints are paired with limited potential for recombination. Furthermore, we argue that this relationship becomes steeper for apps that are multihomed, while it becomes flatter for apps with a modular architecture. Analyzing a monthly panel dataset of around a thousand Firefox extensions, and applying various forms of source code analysis, we find support for our predictions. We discuss the implications of our findings for the literatures on platforms and modular architectures.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
-tags:
-- Source Themes
+tags: []
+
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: ''
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -45,7 +48,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -61,15 +64,5 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: []
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).

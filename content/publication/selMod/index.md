@@ -1,10 +1,10 @@
 ---
-title: "Exploring Process-Level Business/IT Alignment: Across Synchronous and Asynchronous Processes"
+title: "Selective Modularization: Complementors Integrating Optional Platform Features "
 authors:
+  - Philipp Hukal
+  - Johannes Loh
   - admin
-  - Joey van Angeren
-  - Bart van den Hooff
-
+  
 author_notes:
   - "Corresponding Author"
 
@@ -23,7 +23,7 @@ publication_types: ["article-journal"]
 publication: "*Working Paper*"
 publication_short: ""
 
-abstract: This study looks at the persistent issue of business/IT alignment. While prior literature mainly focuses on business/IT alignment at the organizational level, this study adopts a process-level perspective. Specifically, considering the inherent idiosyncrasies in individual business processes and what happens when they are paired with different IT architectures. Drawing on a single case study, this study reveals that business/IT misalignment occurs when asynchronous IT architectures are paired with synchronous processes or when synchronous IT architectures are paired with asynchronous processes. Furthermore, the findings indicate that addressing misalignment introduces additional structural complexity across the IT architecture. 
+abstract: We explore the decisions of complementors integrating technical features offered by digital platform operators in their own products. Drawing from detailed product-level data on 13,451 complements on the popular video game platform, we estimate the probability of any complementor integrating platform features across four important attributes discussed in the literature, business model, developer experience, multi-homing, and end-user interaction. We find that across these complementor attributes, integration decisions differ by the type of complementor and the type of feature, suggesting that the integration of optional platform features interacts with complementors’ strategic considerations of differentiation, segmentation, and commercialization. Through our exploratory analysis, we argue that the digital technology foundation on which many digital platforms operate matters for intra­platform competition, and we discuss the implications of these findings for future work on complementors in digital platform ecosystems. 
 
 # Summary. An optional shortened abstract.
 summary:

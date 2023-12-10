@@ -148,8 +148,8 @@ sections:
       text:
       filters:
         folders:
-          - featuredWork
-        exclude_featured: true
+          - publication
+        exclude_featured: false
     design:
       columns: '2'
       view: citation

@@ -85,5 +85,5 @@ social:
 highlight_name: true
 ---
 
-I'm Coen (/Koon/) van der Geest a PhD Candidate at the [KIN Center for Digital Innovation](https://www.kinresearch.nl) at the School of Business and Economics of the Vrije Universiteit Amsterdam. My dissertation focuses on the dynamics within and around digital architectures, specifically on the development and use of application programming interfaces (APIs) for collaborative innovation, and the effects of IT architecture on business/IT alignment and IS complexity. Yet, my research interests broadly are with the complexities surrounding digital infrastructures, focussing their use, design and evolution and the organizational implications thereof.
+I'm Coen (/Koon/) van der Geest a PhD Candidate at the [KIN Center for Digital Innovation](https://www.kinresearch.nl) at the School of Business and Economics of the Vrije Universiteit Amsterdam. My dissertation focuses on the dynamics within and around digital architectures, specifically on the development and use of application programming interfaces (APIs) for collaborative innovation, and the effects of IT architecture on business/IT alignment and IS complexity. My research interests include the complexities surrounding digital infrastructures, focussing on their use, design and evolution and the organizational implications thereof.
 {style="text-align: justify;"}
