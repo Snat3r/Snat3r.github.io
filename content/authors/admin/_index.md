@@ -97,31 +97,32 @@ social:
     icon_pack: fas
     link: 'mailto:c.c.vander.geest@vu.nl'
     label: Feel free to get in touch
+    display:
+      header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=UMCYuSgAAAAJ&hl=en
+    display:
+      header: true
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/coen_vdgeest
     label: Follow me on Twitter
-    display:
-      header: true
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/coen-van-der-geest/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
+    display:
+      header: true
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm Coen (/Koon/) van der Geest a PhD Candidate at the [KIN Center for Digital Innovation](https://www.kinresearch.nl) at the School of Business and Economics of the Vrije Universiteit Amsterdam. My dissertation focuses on the dynamics within and around digital architectures, specifically on the development and use of application programming interfaces (APIs) for collaborative innovation, and the effects of IT architecture on business/IT alignment and IS complexity. Yet, my research interests broadly are with the complexities surrounding digital infrastructures, focussing their use, design and evolution and the organizational implications thereof.
 {style="text-align: justify;"}
