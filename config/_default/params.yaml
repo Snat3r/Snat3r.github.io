@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Coen van der Geest. This work is licensed under {license}'
+    notice: '© {year} Coen van der Geest.'
     license:
       enable: false
       allow_derivatives: false
