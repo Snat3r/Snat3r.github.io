@@ -23,7 +23,7 @@ marketing:
   analytics:
     google_analytics: G-LMT8MXE9WV
     baidu_tongji: ''
-    google_tag_manager: ''
+    google_tag_manager: G-LMT8MXE9WV
     microsoft_clarity: k45tr80tri
   verification:
     google: ''
