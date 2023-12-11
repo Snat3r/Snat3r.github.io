@@ -1,14 +1,14 @@
 ---
-title: "Selective Modularization: Complementors Integrating Optional Platform Features "
+title: "Using Similarity Digests and Approximate Matching to Measure Knowledge Reuse and dissemination"
 authors:
-  - Philipp Hukal
-  - Johannes Loh
+  - Mahmood Shafeie Zargar
   - admin
-  
+  - Tomer Iwan
+
 #author_notes:
 #  - "Corresponding Author"
 
-date: "2023-04-01T00:00:00Z"
+date: "2022-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -23,7 +23,7 @@ publication_types: ["manuscript"]
 publication: "*Working Paper*"
 publication_short: ""
 
-abstract: We explore the decisions of complementors integrating technical features offered by digital platform operators in their own products. Drawing from detailed product-level data on 13,451 complements on the popular video game platform, we estimate the probability of any complementor integrating platform features across four important attributes discussed in the literature, business model, developer experience, multi-homing, and end-user interaction. We find that across these complementor attributes, integration decisions differ by the type of complementor and the type of feature, suggesting that the integration of optional platform features interacts with complementors’ strategic considerations of differentiation, segmentation, and commercialization. Through our exploratory analysis, we argue that the digital technology foundation on which many digital platforms operate matters for intra­platform competition, and we discuss the implications of these findings for future work on complementors in digital platform ecosystems. 
+abstract: In this paper we give an introduction and an overview of the textreuse method, highlight the challenges one faces in implementing the method, and showcase illustrative cases in which textreuse is able to determine the origin and inheritance of a textual artifact. Application of textreuse, and related methods often require a diverse knowledge base, understanding the topic at hand while having a thorough understanding of computational methods and programming. Given that not all researchers are familiar with such computational methods, we will not solely showcase the textreuse method but also propose a framework that will reduce the computational complexity of applying textreuse. As such, increase the utility and applicability of the textresuse method within the social sciences. The dataset consist of the Julia programming language code base, containing around 3000 user build applications.
 
 # Summary. An optional shortened abstract.
 summary:

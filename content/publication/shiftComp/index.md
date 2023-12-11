@@ -1,14 +1,15 @@
 ---
-title: "Selective Modularization: Complementors Integrating Optional Platform Features "
+title: "Complexity is a Given: Conceptualizing the Management of Information Systems Complexity as a Continuous Redistribution Process"
 authors:
-  - Philipp Hukal
-  - Johannes Loh
   - admin
-  
+  - Joey van Angeren
+  - Bart van den Hooff
+  - Hans Berends
+
 #author_notes:
 #  - "Corresponding Author"
 
-date: "2023-04-01T00:00:00Z"
+date: "2023-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -20,10 +21,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["manuscript"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Working Paper*"
+publication: "*Working Title*"
 publication_short: ""
 
-abstract: We explore the decisions of complementors integrating technical features offered by digital platform operators in their own products. Drawing from detailed product-level data on 13,451 complements on the popular video game platform, we estimate the probability of any complementor integrating platform features across four important attributes discussed in the literature, business model, developer experience, multi-homing, and end-user interaction. We find that across these complementor attributes, integration decisions differ by the type of complementor and the type of feature, suggesting that the integration of optional platform features interacts with complementors’ strategic considerations of differentiation, segmentation, and commercialization. Through our exploratory analysis, we argue that the digital technology foundation on which many digital platforms operate matters for intra­platform competition, and we discuss the implications of these findings for future work on complementors in digital platform ecosystems. 
+abstract: 
 
 # Summary. An optional shortened abstract.
 summary:
