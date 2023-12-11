@@ -118,39 +118,54 @@ sections:
       title: 'Teaching'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
+      date_format: ' '
       # Accomplishments.
       #   Add/remove as many `item` blocks below as you like.
       #   `title`, `organization`, and `date_start` are the required parameters.
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
+      # Start date is required, but not shown on the web page.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: ''
           date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          date_start: '2023-01-01'
+          description: |-
+            Coordinator and lecturer, The aim of the course is to familiarize students with quantitative research and statistical models (e.g., T-tests, ANOVAs, OLS regressions, and PCA). The course walks students through the most important concepts relating to quantitative research, starting with the need for academic research and science, through what a theory entails, to the different statistical models.
+          icon: 
+          organization: Executive Master
+          organization_url: 
+          title: Methods and Techniques Quantitative
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: 
+          date_end: ''
+          date_start: '2022-01-01'
+          description: |-
+            Co-coordinator and lecturer on the topics of Standards and Dominant Designs, and Platforms and Ecosystems. In this course, students learn to understand and apply basic theories behind the processes of technology-based innovation in organizations and their environments, the development of innovation strategies, and the organizational implementation of innovation strategies. Theoretical understanding is applied in an online simulation and real-life cases focusing on managerial dilemmas in the management of technology. 
+          icon: 
+          organization: Third-year Bachelor Elective
+          organization_url: 
+          title: Strategic Management of Technology and Innovation
+          url: 
+        - certificate_url: 
           date_end: ''
           date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          description: |-
+            Tutorial teacher, in the course we cover the basic research designs and methods for conducting rigorous quantitative research. The objective of the course is to enable students to understand, select, and apply the proper methods for their research questions. At the end of the course, students will have a comprehensive overview of the most used methodologies and will be able to apply them to real-world data using their statistical software of choice.
+          icon: 
+          organization: Compulsary Master Course
+          organization_url: 
+          title: 'Research Design and Methods Quantitative'
+          url: ''
+        - certificate_url: 
+          date_end: ''
+          date_start: '2022-01-01'
+          description: |-
+            Guest lecturer, on the topic of Application Programming Interfaces (APIs) and IT Architectures. The lecture focusses on the use of APIs and IT architectures in digital businesses, specifically, how APIs can be leveraged in the creation of new products and services, how APIs are supported by different types of IT architecture, and the emergence of the asynchronous Event-Driven Architecture. 
+          icon: 
+          organization: Third-year Bachelor Elective
+          organization_url: 
+          title: 'Information Systems in E-Business and Online Commerce'
           url: ''
     design:
       columns: '2'
