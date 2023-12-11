@@ -9,7 +9,7 @@ appearance:
   theme_day: minimal
   theme_night: minimal
   font: minimal
-  font_size: L
+  font_size: M
 
 # SEO
 
@@ -18,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: 'Coen van der Geest'
-    description: 'Portfolio website Coen can der Geest'
+    description: 'Personal portfolio website Coen van der Geest'
     twitter: 'coen_vdgeest'
   analytics:
     google_analytics: ''
