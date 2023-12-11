@@ -9,8 +9,8 @@ authors:
   - Joey van Angeren
 
 # Author notes (optional)
-author_notes:
-  - 'Corresponding Author'
+#author_notes:
+#  - 'Corresponding Author'
 #  - 'Equal contribution'
 #
 date: '2023-04-15T00:00:00Z'
