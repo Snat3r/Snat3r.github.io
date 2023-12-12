@@ -2,14 +2,14 @@
 name = "Mr Robot"
 
 # Is theme light or dark?
-light = false
+[dark]
 
 # Primary
 primary = "#ed681c"
 
 # Menu
 menu_primary = "rgb(33, 37, 41)"
-menu_text = "rgb(0, 136, 204)"
+menu_text = "#7b360a"
 menu_text_active = "#ed681c"
 menu_title = "#ed681c"
 
