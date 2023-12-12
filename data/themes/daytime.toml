@@ -5,13 +5,13 @@ name = "Daytime"
 [light]
 
 # Primary
-primary = "#2962ff"
+primary = "#ed681c"
 
 # Menu
 menu_primary = "#fff"
 menu_text = "#7b360a"
-menu_text_active = "#fb6f17"
-menu_title = "#fb6f17"
+menu_text_active = "#ed681c"
+menu_title = "#ed681c"
 
 # Home sections
 home_section_odd = "rgb(255, 255, 255)"
