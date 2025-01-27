@@ -18,8 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: 'Coen van der Geest'
-    description: 'I’m Coen (/Koon/) van der Geest a PhD Candidate at the KIN Center for Digital Innovation at the School of Business and Economics of the Vrije Universiteit Amsterdam.'
-    twitter: 'coen_vdgeest'
+    description: 'I’m Coen van der Geest an assistant professor at the Department of Digitalization at Copenhagen Business School.'
   analytics:
     google_analytics: G-LMT8MXE9WV
     baidu_tongji: ''
@@ -45,7 +44,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Coen van der Geest.'
+    notice: '© {2025} Coen van der Geest.'
     license:
       enable: false
       allow_derivatives: false

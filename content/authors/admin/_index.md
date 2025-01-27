@@ -56,34 +56,39 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:c.c.vander.geest@vu.nl'
+    link: 'mailto:cv.digi@cbs.dk'
     label: Feel free to get in touch
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=UMCYuSgAAAAJ&hl=en
     display:
       header: true
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/coen_vdgeest
-    label: Follow me on Twitter
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/coen-van-der-geest/
+    link: https://www.linkedin.com/in/coen-van-der-geest/\
+    display:
+      header: true
+  - icon: building
+    icon_pack: fab
+    link: https://www.cbs.dk/en/research/departments-and-centres/department-of-digitalization/staff/assistant-professor
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://twitter.com/coen_vdgeest
+#    label: Follow me on Twitter
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
-    display:
-      header: true
+#  - icon: cv
+#    icon_pack: ai
+#    link: uploads/resume.pdf
+#    display:
+#      header: true
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I'm Coen (/Koon/) van der Geest a PhD Candidate at the [KIN Center for Digital Innovation](https://www.kinresearch.nl) at the School of Business and Economics of the Vrije Universiteit Amsterdam. My dissertation focuses on the dynamics within and around digital architectures, specifically on the development and use of application programming interfaces (APIs) for collaborative innovation, and the effects of IT architecture on business/IT alignment and IS complexity. My research interests include the complexities surrounding digital infrastructures, focussing on their use, design and evolution and the organizational implications thereof.
+I'm Coen (/Koon/) van der Geest an Assistant Professor at the [Department of Digitalization]() at Copenhagen Business School (CBS). Before that I was a PhD candidate at the [KIN Center for Digital Innovation](https://www.kinresearch.nl) at the School of Business and Economics of the Vrije Universiteit Amsterdam. My dissertation focuses on the dynamics within and around digital architectures, specifically on the development and use of application programming interfaces (APIs) for collaborative innovation, and the effects of IT architecture on business/IT alignment and IS complexity. My research interests include the complexities surrounding digital infrastructures, focussing on their use, design and evolution and the organizational implications thereof. Next to that, I'm interested in the use of Application Programming Interfaces (APIs) as a source of organizational value creation. 
 {style="text-align: justify;"}

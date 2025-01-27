@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: 'Coen van der Geest'
-date: 2023-12-09
+date: 2025-01-27
 type: landing
 
 sections:
