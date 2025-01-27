@@ -71,7 +71,7 @@ social:
     display:
       header: true
   - icon: building
-    icon_pack: fab
+    icon_pack: fas
     link: https://www.cbs.dk/en/research/departments-and-centres/department-of-digitalization/staff/assistant-professor
 #  - icon: twitter
 #    icon_pack: fab

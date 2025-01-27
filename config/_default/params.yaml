@@ -44,7 +44,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {2025} Coen van der Geest.'
+    notice: '© {year} Coen van der Geest.'
     license:
       enable: false
       allow_derivatives: false
