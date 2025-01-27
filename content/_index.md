@@ -102,7 +102,7 @@ sections:
       view: card
   - block: collection
     content:
-      title: Published & Working-in-progress
+      title: Published & Work-in-progress
       text:
       filters:
         folders:
