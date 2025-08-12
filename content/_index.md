@@ -118,7 +118,7 @@ sections:
       title: 'Teaching Experience'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
-      date_format: '2006'
+      date_format: 'YYYY'
       # Accomplishments.
       #   Add/remove as many `item` blocks below as you like.
       #   `title`, `organization`, and `date_start` are the required parameters.
@@ -129,7 +129,7 @@ sections:
       items:
         - certificate_url: ''
           date_end: ''
-          date_start: '01-01-2025'
+          date_start: '2025-01-01'
           description: ''
           icon: 
           organization: MSc in Information Systems
@@ -138,7 +138,7 @@ sections:
           url: ''
         - certificate_url: ''
           date_end: ''
-          date_start: '01-01-2024'
+          date_start: '2024-01-01'
           description: ''
           icon: 
           organization: MSc in Information Systems
@@ -147,7 +147,7 @@ sections:
           url: ''
         - certificate_url: ''
           date_end: ''
-          date_start: '01-01-2025'
+          date_start: '2025-01-01'
           description: ''
           icon: 
           organization: BSc in Information Systems
@@ -155,8 +155,8 @@ sections:
           title: Big Data Analytics for Managers
           url: '' 
         - certificate_url: ''
-          date_end: '01-01-2024'
-          date_start: '01-01-2022'
+          date_end: '2024-01-01'
+          date_start: '2022-01-01'
           description: ''
           icon: 
           organization: Executive Master and MSc in Digital Business and Innovation
@@ -164,8 +164,8 @@ sections:
           title: Methods and Techniques - Quantitative
           url: ''
         - certificate_url: 
-          date_end: '01-01-2024'
-          date_start: '01-01-2021'
+          date_end: '2024-01-01'
+          date_start: '2021-01-01'
           description: ''
           icon: 
           organization: Third-year Bachelor Elective
@@ -173,8 +173,8 @@ sections:
           title: Strategic Management of Technology and Innovation
           url: 
         - certificate_url: 
-          date_end: '01-01-2023'
-          date_start: '01-01-2022'
+          date_end: '2023-01-01'
+          date_start: '2022-01-01'
           description: ''
           icon: 
           organization: Third-year Bachelor Elective
