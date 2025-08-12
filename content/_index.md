@@ -128,7 +128,7 @@ sections:
       # Start date is required, but not shown on the web page.
       items:
         - certificate_url: ''
-          date_end: ''
+          date_end: 'Ongoing'
           date_start: '2025-01-01'
           description: ''
           icon: 
@@ -137,8 +137,8 @@ sections:
           title: Applied Machine Learning
           url: ''
         - certificate_url: ''
-          date_end: ''
-          date_start: '2024-01-01'
+          date_end: 'Ongoing'
+          date_start: '2025-01-01'
           description: ''
           icon: 
           organization: MSc in Information Systems
@@ -146,7 +146,7 @@ sections:
           title: Internet of Things
           url: ''
         - certificate_url: ''
-          date_end: ''
+          date_end: 'Ongoing'
           date_start: '2025-01-01'
           description: ''
           icon: 
