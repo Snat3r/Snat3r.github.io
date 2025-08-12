@@ -32,8 +32,9 @@ bio: My research interests include IT and Platform Architectures and API Strateg
 # Interests to show in About widget
 interests:
   - IT and Platform Architectures
-  - Application Programming Interfaces (APIs)
   - API Strategy
+  - Design of Digital Technologies
+  - IS Complexity
 
 # Education to show in About widget
 education:
