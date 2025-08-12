@@ -118,7 +118,7 @@ sections:
       title: 'Teaching Experience'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
-      date_format: '2025'
+      date_format: 'YYYY'
       # Accomplishments.
       #   Add/remove as many `item` blocks below as you like.
       #   `title`, `organization`, and `date_start` are the required parameters.
@@ -152,7 +152,7 @@ sections:
           icon: 
           organization: BSc in Information Systems
           organization_url: 
-          title: Big Data Analytics for managers
+          title: Big Data Analytics for Managers
           url: '' 
         - certificate_url: ''
           date_end: '2024-01-01'
