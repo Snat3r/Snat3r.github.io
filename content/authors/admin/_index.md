@@ -27,20 +27,20 @@ organizations:
     url: https://www.cbs.dk/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include IT (Platform) Architectures and Application Programming Interfaces (APIs).
+bio: My research interests include IT and Platform Architectures and API Strategy.
 
 # Interests to show in About widget
 interests:
-  - IT (Platform) Architectures
+  - IT and Platform Architectures
   - Application Programming Interfaces (APIs)
-  - API-based value creation
+  - API Strategy
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Information Systems
       institution: Vrije Universiteit Amsterdam
-      year: 2025 (prospective)
+      year: 2025
     - course: MPhil Business in Society
       institution: Vrije Universiteit Amsterdam
       year: 2021
@@ -90,5 +90,5 @@ social:
 highlight_name: true
 ---
 
-I'm Coen van der Geest an Assistant Professor at the [Department of Digitalization](https://www.cbs.dk/en/research/departments-and-centres/department-of-digitalization) at Copenhagen Business School (CBS). Before that I was a PhD candidate at the [KIN Center for Digital Innovation](https://www.kinresearch.nl) at the School of Business and Economics of the Vrije Universiteit Amsterdam. My dissertation focuses on the dynamics within and around digital architectures, specifically on the development and use of application programming interfaces (APIs) for collaborative innovation, and the effects of IT architecture on business/IT alignment and IS complexity. My research interests include the complexities surrounding digital infrastructures, focussing on their use, design and evolution and the organizational implications thereof. Next to that, I'm interested in the use of Application Programming Interfaces (APIs) as a source of organizational value creation. 
+I'm Coen van der Geest an Assistant Professor at the [Department of Digitalization](https://www.cbs.dk/en/research/departments-and-centres/department-of-digitalization) at Copenhagen Business School (CBS), with a PhD from [KIN Center for Digital Innovation](https://www.kinresearch.nl) at the School of Business and Economics of the Vrije Universiteit Amsterdam. My research explores how the architectural configuration of digital technologies shapes both organizational and societal outcomes. I focus on how the design of digital technologies and standards, particularly APIs, platform architectures, and IT infrastructures, enables or constrains their use potential, thereby influencing strategic and operational outcomes.
 {style="text-align: justify;"}
