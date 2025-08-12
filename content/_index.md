@@ -128,7 +128,7 @@ sections:
       # Start date is required, but not shown on the web page.
       items:
         - certificate_url: ''
-          date_end: 'Ongoing'
+          date_end: ''
           date_start: '2025-01-01'
           description: ''
           icon: 
@@ -137,7 +137,7 @@ sections:
           title: Applied Machine Learning
           url: ''
         - certificate_url: ''
-          date_end: 'Ongoing'
+          date_end: ''
           date_start: '2025-01-01'
           description: ''
           icon: 
@@ -146,7 +146,7 @@ sections:
           title: Internet of Things
           url: ''
         - certificate_url: ''
-          date_end: 'Ongoing'
+          date_end: ''
           date_start: '2025-01-01'
           description: ''
           icon: 
@@ -165,7 +165,7 @@ sections:
           url: ''
         - certificate_url: 
           date_end: '2024-01-01'
-          date_start: '2021-01-01'
+          date_start: '2020-01-01'
           description: ''
           icon: 
           organization: Third-year Bachelor Elective
