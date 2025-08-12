@@ -21,7 +21,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["manuscript"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Working Paper (R&R)*"
+publication: "*Working Paper*"
 publication_short: ""
 
 abstract: To enable third-party developers to produce apps on top of digital platforms, those platforms provide well-documented and standardized interfaces that grant developers access to specific platform components. Developers choose whether to leverage such platform interfaces, and we investigate the implications of this choice for their ability to produce follow-on app innovations. We argue that although using platform interfaces is to app innovation can because interfaces can be mixed-and-matched or recombined by developers, choosing to do so also immediately imposes architectural constraints that could hamper app innovation. Platform interfaces come with design rules that developers must adhere to, possibly hindering subsequent innovation. We theorize that these enabling and constraining mechanisms jointly produce a U-shaped relationship between platform interface usage and app innovation, where moderate levels of interface usage result in the lowest levels of app innovation because at this point significant architectural constraints are paired with limited potential for recombination. Furthermore, we argue that this relationship becomes steeper for apps that are multihomed, while it becomes flatter for apps with a modular architecture. Analyzing a monthly panel dataset of around a thousand Firefox extensions, and applying various forms of source code analysis, we find support for our predictions. We discuss the implications of our findings for the literatures on platforms and modular architectures.

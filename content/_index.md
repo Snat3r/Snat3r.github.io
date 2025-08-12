@@ -156,7 +156,7 @@ sections:
           url: '' 
         - certificate_url: ''
           date_end: '2024-01-01'
-          date_start: '2022-01-01'
+          date_start: '2021-01-01'
           description: ''
           icon: 
           organization: Executive Master and MSc in Digital Business and Innovation
