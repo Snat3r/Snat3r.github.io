@@ -90,5 +90,7 @@ social:
 highlight_name: true
 ---
 
-I'm Coen van der Geest an Assistant Professor at the [Department of Digitalization](https://www.cbs.dk/en/research/departments-and-centres/department-of-digitalization) at Copenhagen Business School (CBS), with a PhD from [KIN Center for Digital Innovation](https://www.kinresearch.nl) at the School of Business and Economics of the Vrije Universiteit Amsterdam. My research explores how the architectural configuration of digital technologies shapes both organizational and societal outcomes. I focus on how the design of digital technologies and standards, particularly around APIs, platform architectures, and IT infrastructures, enables or constrains their use potential, thereby influencing strategic and operational outcomes.
+I'm Coen van der Geest an Assistant Professor at the [Department of Digitalization](https://www.cbs.dk/en/research/departments-and-centres/department-of-digitalization) at Copenhagen Business School (CBS), with a PhD from [KIN Center for Digital Innovation](https://www.kinresearch.nl) at the School of Business and Economics of the Vrije Universiteit Amsterdam. 
+
+My research explores how the architectural configuration of digital technologies shapes both organizational and societal outcomes. I focus on how the design of digital technologies and standards, particularly around APIs, platform architectures, and IT infrastructures, enables or constrains their use potential, thereby influencing strategic and operational outcomes. With my research I aim to offer practical insight into how technical design shapes the capacity of organizations to leverage digital technologies for value creation, and what this means for society at large.
 {style="text-align: justify;"}
